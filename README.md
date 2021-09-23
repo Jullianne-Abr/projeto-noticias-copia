@@ -1,1 +1,1 @@
-# projeto-noticias-copia
+https://github.com/Jullianne-Abr/noticias.git
